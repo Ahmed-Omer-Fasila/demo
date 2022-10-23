@@ -2,7 +2,13 @@
 #include <iostream>
 #include <cmath>
 using namespace std; 
+const int x = 10 ;
 
+void readme()
+{
+ 
+cout << " Read me " << endl ; 
+}
 
 
 
@@ -15,7 +21,7 @@ using namespace std;
    
  cout << " Hlloworld\n" ; 
  
-
+readme();
 
   
     
